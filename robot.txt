@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /data/
+Disallow: /config/
+Allow: /index.html
+Allow: /$
+Crawl-delay: 5
+
+Sitemap: https://altea-vinica.github.io/website/sitemap.xml
+
+# Apteka Altea Vinica - GitHub Pages
+# Last updated: 2023-11-15
+# Production environment
